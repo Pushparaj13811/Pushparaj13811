@@ -19,8 +19,9 @@ Here are some of the technologies I'm familiar with:
 
 ## My GitHub Stats
 
-You can check out my GitHub stats [here](https://github.com/Pushparaj13811).
 ![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=radical)
+![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=synthwave)
+
 
 
 ## Get in Touch
