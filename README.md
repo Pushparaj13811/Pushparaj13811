@@ -8,6 +8,8 @@
 
 💞️ I’m looking to collaborate on projects related to Artificial Intelligence and Machine Learning too.
 
+---
+
 ## My Tech Stack
 
 Here are some of the technologies I'm familiar with:
@@ -17,12 +19,16 @@ Here are some of the technologies I'm familiar with:
 - Databases: MySQL, PostgreSQL, Oracle Apex
 - Version Control: Git
 
+---
+
 ## My GitHub Stats
 
 ![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=cobalt)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=dark)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Language and tools 
 <div>
@@ -37,6 +43,8 @@ Here are some of the technologies I'm familiar with:
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp; 
     </div>
+
+---
 
 ## Get in Touch
 
