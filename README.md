@@ -1,4 +1,5 @@
-## Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj.
+## Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>.
+
 
 - 👀 An Engineering student interested in Software Development.
 
