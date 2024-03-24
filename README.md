@@ -1,24 +1,13 @@
-## Welcome to My GitHub Profile 👋 Hi, I’m Hompushparaj Mehta, but you can call me Pushparaj.
+## Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj.
 
-👀 I’m interested in Software Development, with a focus on web development, particularly in frontend technologies such as HTML, CSS, JavaScript, and React.js.
-
-🌱 I’m currently learning Java Programming to expand my skillset.
-
-💞️ I’m looking to collaborate on projects related to Artificial Intelligence and Machine Learning too.
-
----
-
-## My Tech Stack
-Here are some of the technologies I'm familiar with:
-
-- Frontend Development: HTML, CSS, JavaScript, React.js
-- Programming Languages: Java,Python
-- Databases: MySQL, PostgreSQL, Oracle Apex
-- Version Control: Git
+- 👀 An Engineering student interested in Software Development, with a focus on web development, particularly in frontend technologies such as HTML, CSS, JavaScript, and React.js.
+- 📚 I am pursuing my B.Tech degree at [RK University](https://www.rku.ac.in/)
+- ⚡ Fun fact: My handwriting is very neat hehe ;)
+- 💞️ I'm also keen on collaborate on projects related to Artificial Intelligence and Machine Learning too. Let's create something awesome together!
 
 ---
 
-## My GitHub Stats
+### My GitHub Stats
 
 ![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=cobalt)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=dark)](https://git.io/streak-stats)
@@ -27,13 +16,14 @@ Here are some of the technologies I'm familiar with:
 
 ---
 
-## Language and tools 
+### Language and tools 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
@@ -43,7 +33,7 @@ Here are some of the technologies I'm familiar with:
 
 ---
 
-## Get in Touch
+### Get in Touch
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/pushparaj1381-/)
 - Email: [Send me an email](mailto:hmehtace@gmail.com)
