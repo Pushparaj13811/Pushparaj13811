@@ -1,15 +1,17 @@
 ## Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj.
 
-- 👀 An Engineering student interested in Software Development, with a focus on web development, particularly in frontend technologies such as HTML, CSS, JavaScript, and React.js.
+- 👀 An Engineering student interested in Software Development.
+
 - 📚 I am pursuing my B.Tech degree at [RK University](https://www.rku.ac.in/)
-- ⚡ Fun fact: My handwriting is very neat hehe ;)
+  
+- ⚡ Fun fact: my handwriting is impeccable! 😄
+  
 - 💞️ I'm also keen on collaborate on projects related to Artificial Intelligence and Machine Learning too. Let's create something awesome together!
 
 ---
 
 ### My GitHub Stats
 
-![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=cobalt)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=dark)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
