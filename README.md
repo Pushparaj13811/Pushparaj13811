@@ -11,6 +11,10 @@
   <a href="https://www.youtube.com/@cozycouplets">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  </a>
+  <a href="https://www.instagram.com/cozycouplets">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
 ---
