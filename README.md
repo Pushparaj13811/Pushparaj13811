@@ -1,5 +1,4 @@
-## Welcome to My GitHub Profile
-👋 Hi, I’m Hompushparaj Mehta, but you can call me Pushparaj.
+## Welcome to My GitHub Profile 👋 Hi, I’m Hompushparaj Mehta, but you can call me Pushparaj.
 
 👀 I’m interested in Software Development, with a focus on web development, particularly in frontend technologies such as HTML, CSS, JavaScript, and React.js.
 
