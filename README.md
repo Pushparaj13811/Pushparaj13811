@@ -20,6 +20,9 @@ Here are some of the technologies I'm familiar with:
 ## My GitHub Stats
 
 ![Pushparaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushparaj13811&show_icons=true&theme=cobalt)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=dark)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
 
