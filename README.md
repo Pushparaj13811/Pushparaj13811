@@ -11,7 +11,6 @@
 ---
 
 ## My Tech Stack
-
 Here are some of the technologies I'm familiar with:
 
 - Frontend Development: HTML, CSS, JavaScript, React.js
