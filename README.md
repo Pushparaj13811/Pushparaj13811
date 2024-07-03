@@ -1,5 +1,7 @@
-## <h1> Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>. </h1>
+<a target="_blank" href="https://raihanm95.github.io"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 
+## <h1> Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>. </h1>
+![](https://komarev.com/ghpvc/?username=raihanM95)
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="360"/>
 </div>
@@ -15,8 +17,8 @@
   <a href="https://www.instagram.com/cozycouplets">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  ![](https://komarev.com/ghpvc/?username=pushparaj1381)
 </div>
+
 
 ---
 ### About Me
