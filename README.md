@@ -1,4 +1,4 @@
-<a target="_blank" href="https://raihanm95.github.io"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
+
 
 ## <h1> Hey There, I’m Hompushparaj, difficult to pronounce😃 call me Pushparaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>. </h1>
 ![](https://komarev.com/ghpvc/?username=raihanM95)
