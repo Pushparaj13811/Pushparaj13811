@@ -15,6 +15,7 @@
   <a href="https://www.instagram.com/cozycouplets">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  ![](https://komarev.com/ghpvc/?username=pushparaj1381)
 </div>
 
 ---
