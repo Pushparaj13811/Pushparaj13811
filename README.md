@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </a>
-  <a href="https://www.instagram.com/cozycouplets">
+  <a href="https://www.instagram.com/pushparaj1381">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
