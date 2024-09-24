@@ -2,21 +2,15 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="360"/>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/Pushparaj1381-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@cozycouplets">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/pushparaj1381">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/pushparaj1381/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pushparaj1381_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushparaj1381_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pushparaj1381-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushparaj1381-" height="30" width="40" /></a>
+<a href="https://kaggle.com/pushparajmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pushparajmehta" height="30" width="40" /></a>
+<a href="https://instagram.com/pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushparaj1381" height="30" width="40" /></a>
+<a href="https://hashnode.com/@pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pushparaj1381" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushparaj1381" height="30" width="40" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=pushparaj13811)
 
@@ -31,9 +25,6 @@
 - 💞️ I'm also keen to collaborate on projects related to Artificial Intelligence and Machine Learning too. Let's create something awesome together!
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushparaj13811&label=Profile%20views&color=0e75b6&style=flat" alt="pushparaj13811" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushparaj13811" alt="pushparaj13811" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pushparaj1381_" target="blank"><img src="https://img.shields.io/twitter/follow/pushparaj1381_?logo=twitter&style=for-the-badge" alt="pushparaj1381_" /></a> </p>
