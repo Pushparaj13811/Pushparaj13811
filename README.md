@@ -5,16 +5,16 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/Pushparaj1381-/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge" width="40" height="40"/>
+    <i class="fa-brands fa-linkedin" style="font-size: 40px; color: #0077B5;"></i>
   </a>
   <a href="https://www.youtube.com/@cozycouplets">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="Youtube Badge" width="40" height="40"/>
+    <i class="fa-brands fa-youtube" style="font-size: 40px; color: #FF0000;"></i>
   </a>
   <a href="https://www.instagram.com/pushparaj1381">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge" width="40" height="40"/>
+    <i class="fa-brands fa-instagram" style="font-size: 40px; color: #E4405F;"></i>
   </a>
   <a href="https://leetcode.com/u/pushparaj1381/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="Leetcode Badge" width="40" height="40"/>
+    <i class="fa-brands fa-leetcode" style="font-size: 40px; color: #F7DF1E;"></i>
   </a>
 </div>
 
