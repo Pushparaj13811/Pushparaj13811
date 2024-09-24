@@ -14,7 +14,10 @@
   </a>
   </a>
   <a href="https://www.instagram.com/pushparaj1381">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/pushparaj1381/">
+    <img src="https://img.shields.io/badge/LeetCode-%23E4405F?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode Badge"/>
   </a>
 </div>
 
