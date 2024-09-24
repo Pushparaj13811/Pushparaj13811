@@ -37,9 +37,7 @@
 
 ### My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushparaj13811&show_icons=true&locale=en&layout=compact" alt="pushparaj13811" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushparaj13811&show_icons=true&locale=en" alt="pushparaj13811" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushparaj13811&show_icons=true &theme=vision-friendly-dark&locale=en" alt="pushparaj13811" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushparaj13811&" alt="pushparaj13811" /></p>
 
