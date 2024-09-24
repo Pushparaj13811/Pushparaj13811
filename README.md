@@ -3,6 +3,8 @@
   <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="360"/>
 </div>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/Pushparaj1381-/">
     <i class="fa-brands fa-linkedin" style="font-size: 40px; color: #0077B5;"></i>
