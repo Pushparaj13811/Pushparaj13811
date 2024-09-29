@@ -3,14 +3,15 @@
   <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="360"/>
 </div>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pushparaj1381_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushparaj1381_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pushparaj1381-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushparaj1381-" height="30" width="40" /></a>
-<a href="https://kaggle.com/pushparajmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pushparajmehta" height="30" width="40" /></a>
-<a href="https://instagram.com/pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushparaj1381" height="30" width="40" /></a>
-<a href="https://hashnode.com/@pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pushparaj1381" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pushparaj1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushparaj1381" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushparaj1381-) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/humans_write](https://twitter.com/pushparaj1381_)) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@pushparaj1381) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pushparajmehta) 
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushparaj1381) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/pushparaj1381) 
+
+
 
 ![](https://komarev.com/ghpvc/?username=pushparaj13811)
 
