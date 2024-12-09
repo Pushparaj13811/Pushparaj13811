@@ -19,7 +19,7 @@
 ### About Me
 - 👀 An Engineering student interested in Software Development, AI, Machine Learning, Data Science, Backend, and Frontend development.
   
-- 📚 I am pursuing my B.Tech degree at [RK University](https://www.rku.ac.in/)
+- 📚 I am pursuing my B.Tech degree.
   
 - ⚡ Fun fact: my handwriting is impeccable! 😄
   
