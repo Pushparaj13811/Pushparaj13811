@@ -63,11 +63,11 @@
 
 ### My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushparaj13811&show_icons=true&locale=en&theme=dark" alt="pushparaj13811" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushparaj13811&show_icons=true&locale=en&theme=light" alt="pushparaj13811" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=light)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
