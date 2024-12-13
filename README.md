@@ -50,6 +50,11 @@ I'm an enthusiastic Engineering student with a passion for technology and innova
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
+  
+  <!-- New Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+  <img src="https://avatars.githubusercontent.com/u/54378053?s=200&v=4" width="50" height="50" alt="FastAPI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Langchain_logo.png" width="50" height="50" alt="LangChain"/>
 </div>
 
 ## 🛠 Tools & Technologies
