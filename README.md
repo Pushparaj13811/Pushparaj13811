@@ -76,11 +76,11 @@ I'm an enthusiastic Engineering student with a passion for technology and innova
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushparaj13811&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushparaj13811&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=default" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Pushparaj13811&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Let's Collaborate!
