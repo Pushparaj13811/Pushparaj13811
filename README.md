@@ -53,8 +53,7 @@ I'm an enthusiastic Engineering student with a passion for technology and innova
   
   <!-- New Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
-  <img src="https://avatars.githubusercontent.com/u/54378053?s=200&v=4" width="50" height="50" alt="FastAPI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Langchain_logo.png" width="50" height="50" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="50" height="50" alt="FastAPI"/>
 </div>
 
 ## 🛠 Tools & Technologies
